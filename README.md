@@ -22,9 +22,14 @@ The project includes the following components:
 
 ## Screenshots
 
-Below are screenshots from the AWS Console showing the IAM configuration.
+### IAM Dashboard
+![IAM Dashboard](Screenshot_20260312_190121_Chrome.png)
 
-- IAM Dashboard
-- IAM Users
-- IAM Groups
-- IAM Roles
+### IAM Users
+![IAM Users](Screenshot_20260312_190209_Chrome.png)
+
+### IAM Groups
+![IAM Groups](Screenshot_20260312_190226_Chrome.png)
+
+### IAM Roles
+![IAM Roles](Screenshot_20260312_190237_Chrome.png)
