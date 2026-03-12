@@ -22,14 +22,10 @@ The project includes the following components:
 
 ## Screenshots
 
-### IAM Dashboard
-![IAM Dashboard](Screenshot_20260312_190121_Chrome.png)
+![IAM Dashboard](./Screenshot_20260312_190121_Chrome.png)
 
-### IAM Users
-![IAM Users](Screenshot_20260312_190209_Chrome.png)
+![IAM Users](./Screenshot_20260312_190209_Chrome.png)
 
-### IAM Groups
-![IAM Groups](Screenshot_20260312_190226_Chrome.png)
+![IAM Groups](./Screenshot_20260312_190226_Chrome.png)
 
-### IAM Roles
-![IAM Roles](Screenshot_20260312_190237_Chrome.png)
+![IAM Roles](./Screenshot_20260312_190237_Chrome.png)
